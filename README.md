@@ -2,9 +2,10 @@
 
 Este é um aplicativo de Pokedex desenvolvido em React Native. Ele permite que os usuários pesquisem informações sobre diferentes Pokémon, incluindo seus tipos, habilidades, estatísticas e evoluções.
 
-![Search](https://i.imgur.com/TYTO1DA.jpg) ![Select Gen](https://i.imgur.com/4yPxAsy.jpg)
-=
-![About Pokemon](https://i.imgur.com/AhjSxYG.jpg) ![Base Stats](https://i.imgur.com/Yn1jdET.jpg)
+<img src="https://i.imgur.com/TYTO1DA.jpg"width="200"/>
+<img src="https://i.imgur.com/4yPxAsy.jpg"  width="200"/>
+<img src="https://i.imgur.com/AhjSxYG.jpg"  width="200"/>
+<img src="https://i.imgur.com/Yn1jdET.jpg"  width="200"/>
 
 
 ## Funcionalidades
